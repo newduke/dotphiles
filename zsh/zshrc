@@ -112,7 +112,4 @@ source "$DOTZSH/init.zsh"
 
 ### Customize to your needs...
 
-(
-custom=".zshrc.$USER"
-if [ -r $custom ]; then source $custom; fi
-)
+if [ -r ".zshrc.$USER" ]; then source ".zshrc.$USER"; fi

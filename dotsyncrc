@@ -75,6 +75,7 @@ zsh/zprofile
 zsh/zshenv
 zsh/zshrc
 zsh/zshrc.jordanweitz
+zsh/*.sh
 [endfiles]
 
 # Hosts to sync

@@ -74,6 +74,7 @@ zsh/zlogout
 zsh/zprofile
 zsh/zshenv
 zsh/zshrc
+zsh/zshrc.jordanweitz
 [endfiles]
 
 # Hosts to sync
